@@ -1,15 +1,16 @@
-title: 
-description: 
+title: Ergo Stonks
+description: Ergo Stonks is one of the first NFTs on Ergo (created in 2021). Based on the famous Stonks meme, it seems it can only go up!
 image: https://ipfs.io/ipfs/
 mintAddresses:
-  - 
+  - 9f14eTxtNDkXNzu8W6taXbaaenustsSavHWm33JV9xPpYrD3uBh
+  - 9fE2ZN6LdbBpX8dSbmjPuxAVLoE9fFMWr126CbVEydBdgsVtvSX
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/Ergo_Stonks
     icon: fa-brands fa-twitter fa-fw
   - label: Discord
-    url: https://discord.com/invite/
+    url: https://discord.com/invite/dkqKWW9Z3h
     icon: fa-brands fa-discord fa-fw
   - label: Website
-    url: 
+    url: https://ergostonks.com/
     icon: fa-solid fa-globe fa-fw
