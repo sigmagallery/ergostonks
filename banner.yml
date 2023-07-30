@@ -1,6 +1,7 @@
 title: Ergo Stonks
 description: Ergo Stonks is one of the first NFTs on Ergo (created in 2021). Based on the famous Stonks meme, it seems it can only go up!
 image: https://img2.sigma.gallery/ergostonks/ergo-stonks/d3ccae33090a93ce7c068c3a0f72b6a79a3ff1dc96b89392e73643ffaad3c47f.webp
+pfp: https://raw.githubusercontent.com/sigmagallery/ergostonks/main/ergostonks.webp
 mintAddresses:
   - 9f14eTxtNDkXNzu8W6taXbaaenustsSavHWm33JV9xPpYrD3uBh
   - 9fE2ZN6LdbBpX8dSbmjPuxAVLoE9fFMWr126CbVEydBdgsVtvSX
